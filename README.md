@@ -1,11 +1,13 @@
 
-# Smart Agriculture Web Application
+# 🌱 AGRO VISION
 
-A full-stack MERN app for farmers: authentication, dashboard, soil-based crop
-recommendation, disease detection, weather, market prices, farmer community,
-government schemes, a rule-based AI chatbot, one-click farm reports, an
-offline mode, profit calculator, soil health scoring, pest alerts, and an
-admin panel.
+### Smart Agriculture Management System
+
+AGRO VISION is a full-stack MERN application designed to help
+farmers with smart crop recommendations, disease detection,
+weather information, market prices, soil health, profit calculation,
+pest alerts, government schemes, farmer community features,
+and AI-powered agricultural assistance.
 
 ## Stack
 - Frontend: React 18, React Router, Bootstrap 5, Recharts, Axios
