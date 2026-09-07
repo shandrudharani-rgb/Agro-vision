@@ -1,3 +1,4 @@
+
 # Smart Agriculture Web Application
 
 A full-stack MERN app for farmers: authentication, dashboard, soil-based crop
@@ -99,3 +100,4 @@ nothing shipped is a broken placeholder — happy to build any of them next:
   subscription; there's no notification sender yet)
 - Server-rendered PDF generation (currently uses browser print)
 - Full offline-first PWA (service worker, IndexedDB, background sync)
+=======
